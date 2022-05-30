@@ -28,7 +28,8 @@ nav img{
 	width: 150px;
 }
 .Routerspace {
-	width=300px;
+	width: 300px;
+	height: 200px;
 }
 .nav-links{
 	flex: 1;
